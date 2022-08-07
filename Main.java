@@ -33,3 +33,6 @@ class Main {
         System.out.println("\nInvalid input.");      
         break;
     }
+    
+  }
+}
